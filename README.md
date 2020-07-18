@@ -1,3 +1,5 @@
+![Header](./doge.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on decentralizing the web by hacking/building protocols, applications and dev tools in ethereum ecosystem.
