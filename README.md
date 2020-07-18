@@ -1,4 +1,4 @@
-![Header](./doge.png)
+![Header](https://github.com/nanspro/nanspro/blob/master/doge.png)
 
 ### Hi there 👋
 
